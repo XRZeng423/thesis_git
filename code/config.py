@@ -5,8 +5,8 @@ class Argument:
     
     # Setup
     cuda: bool = True
-    save_path: str = '/project/graziul/ra/xuranzeng/no_text_no_merge_no_teo.pth'
-    load_path: str = '/project/graziul/ra/xuranzeng/no_text_no_merge_no_teo.pth'
+    save_path: str = '/home/xuranzeng/thesis_git/code/EC_model.pth'
+    load_path: str = '/home/xuranzeng/thesis_git/code/EC_model.pth'
     load_pretrained: bool = False
     train: bool = True
     evaluate: bool = False
@@ -18,7 +18,10 @@ class Argument:
     # Dataset
     bpc_path: str = "./data/EC_path.csv"  # paths
     bpc_output_path: str = './data/EC_labels.csv'  # paths with labels
+    # bpc_output_path: str = './data/sample_EC2_labels.csv'  # paths with labels
     bpc_feature_path: str = "./data/EC_feature.json"
+    # bpc_feature_path: str = "./data/sample_EC_feature.json"
+
 
 
     susas_path: str = "./data/susas_path.csv"

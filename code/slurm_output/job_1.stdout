@@ -1,0 +1,48 @@
+True
+Using device: cuda
+New model initialized.
+Training for epoch 0
+[0/251][0/12] Loss: 81.22537994384766
+[0/251][10/12] Loss: 6.690430641174316
+[100/251][0/12] Loss: 2.0322072505950928
+[100/251][10/12] Loss: 2.016089916229248
+[200/251][0/12] Loss: 4.362208366394043
+[200/251][10/12] Loss: 2.534074306488037
+Model saved at: /home/xuranzeng/thesis_git/code/no_text_no_merge_no_teo.pth
+Training for epoch 1
+[0/251][0/12] Loss: 2.0555179119110107
+[0/251][10/12] Loss: 1.942529559135437
+[100/251][0/12] Loss: 2.174038887023926
+[100/251][10/12] Loss: 2.1562604904174805
+[200/251][0/12] Loss: 2.2154905796051025
+[200/251][10/12] Loss: 2.087846279144287
+Model saved at: /home/xuranzeng/thesis_git/code/no_text_no_merge_no_teo.pth
+Training for epoch 2
+[0/251][0/12] Loss: 2.200587749481201
+[0/251][10/12] Loss: 1.8972769975662231
+[100/251][0/12] Loss: 2.3738865852355957
+[100/251][10/12] Loss: 2.0537304878234863
+[200/251][0/12] Loss: 2.1063082218170166
+[200/251][10/12] Loss: 2.09281849861145
+Model saved at: /home/xuranzeng/thesis_git/code/no_text_no_merge_no_teo.pth
+Training for epoch 3
+[0/251][0/12] Loss: 2.255341053009033
+[0/251][10/12] Loss: 2.0507822036743164
+[100/251][0/12] Loss: 1.832876443862915
+[100/251][10/12] Loss: 1.718778371810913
+[200/251][0/12] Loss: 2.1193838119506836
+[200/251][10/12] Loss: 2.098501682281494
+Model saved at: /home/xuranzeng/thesis_git/code/no_text_no_merge_no_teo.pth
+Training for epoch 4
+[0/251][0/12] Loss: 2.0254263877868652
+[0/251][10/12] Loss: 1.9875428676605225
+[100/251][0/12] Loss: 2.0723319053649902
+[100/251][10/12] Loss: 2.0364856719970703
+[200/251][0/12] Loss: 1.9650733470916748
+[200/251][10/12] Loss: 1.9545056819915771
+Model saved at: /home/xuranzeng/thesis_git/code/no_text_no_merge_no_teo.pth
+Predicting labels for BPC.
+Predicting labels for BPC
+0/12
+Start writing file: ./data/sample_EC2_labels.csv
+Predition completed. Labels in ./data/sample_EC2_labels.csv.
