@@ -16,10 +16,9 @@ class Argument:
     delta_for_teo: int = 0.2
     
     # Dataset
-    bpc_path: str = "./data/sample_EC.csv"  # paths
-    bpc_output_path: str = './data/sample_EC_labels.csv'  # paths with labels
-    bpc_feature_path: str = "./data/sample_EC_feature.json"
-
+    bpc_path: str = "./data/EC_path.csv"  # paths
+    bpc_output_path: str = './data/EC_labels.csv'  # paths with labels
+    bpc_feature_path: str = "./data/EC_feature.json"
 
 
     susas_path: str = "./data/susas_path.csv"
