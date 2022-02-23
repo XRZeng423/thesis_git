@@ -7,8 +7,8 @@ fi
 
 srun --account=pi-graziul \
      --job-name="train-ser" \
-     --output="$OUTPUT_DIR/job_3.stdout" \
-     --error="$OUTPUT_DIR/job_3.stderr" \
+     --output="$OUTPUT_DIR/job_4.stdout" \
+     --error="$OUTPUT_DIR/job_4.stderr" \
      --partition=gpu \
      --nodes=1 \
      --gpus=1 \
