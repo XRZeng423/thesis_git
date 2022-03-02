@@ -1,0 +1,578 @@
+,Complete_Path,Company,Day,Filename
+0,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Booking Holdings Inc_20170509/Text.txt,Booking Holdings Inc,20170509,Text.txt
+1,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dish Network_20170222/Text.txt,Dish Network,20170222,Text.txt
+2,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Juniper Networks_20170725/Text.txt,Juniper Networks,20170725,Text.txt
+3,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lennar Corp._20171003/Text.txt,Lennar Corp.,20171003,Text.txt
+4,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verisign Inc._20170727/Text.txt,Verisign Inc.,20170727,Text.txt
+5,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AT&T Inc._20171024/Text.txt,AT&T Inc.,20171024,Text.txt
+6,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Twitter, Inc._20170727/Text.txt","Twitter, Inc.",20170727,Text.txt
+7,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Aetna Inc_20171031/Text.txt,Aetna Inc,20171031,Text.txt
+8,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AMETEK Inc._20170802/Text.txt,AMETEK Inc.,20170802,Text.txt
+9,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Stryker Corp._20170727/Text.txt,Stryker Corp.,20170727,Text.txt
+10,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kansas City Southern_20171020/Text.txt,Kansas City Southern,20171020,Text.txt
+11,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hewlett Packard Enterprise_20170531/Text.txt,Hewlett Packard Enterprise,20170531,Text.txt
+12,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Mosaic Company_20171031/Text.txt,The Mosaic Company,20171031,Text.txt
+13,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Walt Disney Company_20171109/Text.txt,The Walt Disney Company,20171109,Text.txt
+14,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Johnson Controls International_20170201/Text.txt,Johnson Controls International,20170201,Text.txt
+15,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Grainger (W.W.) Inc._20170418/Text.txt,Grainger (W.W.) Inc.,20170418,Text.txt
+16,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Stericycle Inc_20170504/Text.txt,Stericycle Inc,20170504,Text.txt
+17,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Regeneron_20170803/Text.txt,Regeneron,20170803,Text.txt
+18,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dominion Energy_20170802/Text.txt,Dominion Energy,20170802,Text.txt
+19,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Digital Realty Trust Inc_20170427/Text.txt,Digital Realty Trust Inc,20170427,Text.txt
+20,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Citigroup Inc._20170118/Text.txt,Citigroup Inc.,20170118,Text.txt
+21,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Skyworks Solutions_20170119/Text.txt,Skyworks Solutions,20170119,Text.txt
+22,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Humana Inc._20170802/Text.txt,Humana Inc.,20170802,Text.txt
+23,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Crown Castle International Corp._20170719/Text.txt,Crown Castle International Corp.,20170719,Text.txt
+24,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Noble Energy Inc_20170803/Text.txt,Noble Energy Inc,20170803,Text.txt
+25,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verizon Communications_20170124/Text.txt,Verizon Communications,20170124,Text.txt
+26,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gartner Inc_20170202/Text.txt,Gartner Inc,20170202,Text.txt
+27,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Invesco Ltd._20170727/Text.txt,Invesco Ltd.,20170727,Text.txt
+28,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Valero Energy_20170727/Text.txt,Valero Energy,20170727,Text.txt
+29,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gap Inc._20170518/Text.txt,Gap Inc.,20170518,Text.txt
+30,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dover Corp._20170720/Text.txt,Dover Corp.,20170720,Text.txt
+31,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Coca-Cola Company (The)_20170726/Text.txt,Coca-Cola Company (The),20170726,Text.txt
+32,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Seagate Technology_20170426/Text.txt,Seagate Technology,20170426,Text.txt
+33,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ford Motor_20170427/Text.txt,Ford Motor,20170427,Text.txt
+34,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Comcast Corp._20170727/Text.txt,Comcast Corp.,20170727,Text.txt
+35,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/ABIOMED Inc_20170504/Text.txt,ABIOMED Inc,20170504,Text.txt
+36,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hanesbrands Inc_20170502/Text.txt,Hanesbrands Inc,20170502,Text.txt
+37,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sysco Corp._20170814/Text.txt,Sysco Corp.,20170814,Text.txt
+38,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hewlett Packard Enterprise_20171121/Text.txt,Hewlett Packard Enterprise,20171121,Text.txt
+39,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/TE Connectivity Ltd._20170125/Text.txt,TE Connectivity Ltd.,20170125,Text.txt
+40,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/U.S. Bancorp_20170719/Text.txt,U.S. Bancorp,20170719,Text.txt
+41,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Red Hat Inc._20170925/Text.txt,Red Hat Inc.,20170925,Text.txt
+42,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kroger Co._20170615/Text.txt,Kroger Co.,20170615,Text.txt
+43,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Synopsys Inc._20170517/Text.txt,Synopsys Inc.,20170517,Text.txt
+44,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Walt Disney Company_20170808/Text.txt,The Walt Disney Company,20170808,Text.txt
+45,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Motorola Solutions Inc._20170504/Text.txt,Motorola Solutions Inc.,20170504,Text.txt
+46,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sherwin-Williams_20170420/Text.txt,Sherwin-Williams,20170420,Text.txt
+47,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verisign Inc._20170427/Text.txt,Verisign Inc.,20170427,Text.txt
+48,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SCANA Corp_20170803/Text.txt,SCANA Corp,20170803,Text.txt
+49,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nektar Therapeutics_20171107/Text.txt,Nektar Therapeutics,20171107,Text.txt
+50,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Darden Restaurants_20171219/Text.txt,Darden Restaurants,20171219,Text.txt
+51,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Xcel Energy Inc_20170727/Text.txt,Xcel Energy Inc,20170727,Text.txt
+52,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hologic_20171108/Text.txt,Hologic,20171108,Text.txt
+53,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Illinois Tool Works_20170424/Text.txt,Illinois Tool Works,20170424,Text.txt
+54,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Fifth Third Bancorp_20170124/Text.txt,Fifth Third Bancorp,20170124,Text.txt
+55,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Xerox_20170425/Text.txt,Xerox,20170425,Text.txt
+56,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CA, Inc._20170802/Text.txt","CA, Inc.",20170802,Text.txt
+57,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Texas Instruments_20170425/Text.txt,Texas Instruments,20170425,Text.txt
+58,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Norfolk Southern Corp._20171025/Text.txt,Norfolk Southern Corp.,20171025,Text.txt
+59,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gartner Inc_20171102/Text.txt,Gartner Inc,20171102,Text.txt
+60,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PepsiCo Inc._20170215/Text.txt,PepsiCo Inc.,20170215,Text.txt
+61,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Fortune Brands Home & Security_20170802/Text.txt,Fortune Brands Home & Security,20170802,Text.txt
+62,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Prologis_20170718/Text.txt,Prologis,20170718,Text.txt
+63,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Digital Realty Trust Inc_20170216/Text.txt,Digital Realty Trust Inc,20170216,Text.txt
+64,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tractor Supply Company_20171025/Text.txt,Tractor Supply Company,20171025,Text.txt
+65,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Norwegian Cruise Line_20170222/Text.txt,Norwegian Cruise Line,20170222,Text.txt
+66,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cisco Systems_20170215/Text.txt,Cisco Systems,20170215,Text.txt
+67,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Incyte_20170504/Text.txt,Incyte,20170504,Text.txt
+68,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dish Network_20170501/Text.txt,Dish Network,20170501,Text.txt
+69,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/DaVita Inc._20170502/Text.txt,DaVita Inc.,20170502,Text.txt
+70,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Campbell Soup_20170831/Text.txt,Campbell Soup,20170831,Text.txt
+71,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Allergan, Plc_20170803/Text.txt","Allergan, Plc",20170803,Text.txt
+72,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Caterpillar Inc._20170725/Text.txt,Caterpillar Inc.,20170725,Text.txt
+73,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Pinnacle West Capital_20170224/Text.txt,Pinnacle West Capital,20170224,Text.txt
+74,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gilead Sciences_20170502/Text.txt,Gilead Sciences,20170502,Text.txt
+75,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Martin Marietta Materials_20170801/Text.txt,Martin Marietta Materials,20170801,Text.txt
+76,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AbbVie Inc._20171027/Text.txt,AbbVie Inc.,20171027,Text.txt
+77,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hologic_20170802/Text.txt,Hologic,20170802,Text.txt
+78,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Western Union Co_20170502/Text.txt,Western Union Co,20170502,Text.txt
+79,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PG&E Corp._20170727/Text.txt,PG&E Corp.,20170727,Text.txt
+80,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Chevron Corp._20170728/Text.txt,Chevron Corp.,20170728,Text.txt
+81,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Home Depot_20170221/Text.txt,Home Depot,20170221,Text.txt
+82,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cardinal Health Inc._20170501/Text.txt,Cardinal Health Inc.,20170501,Text.txt
+83,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/ResMed_20171026/Text.txt,ResMed,20171026,Text.txt
+84,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hess Corporation_20171025/Text.txt,Hess Corporation,20171025,Text.txt
+85,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Exxon Mobil Corp._20171027/Text.txt,Exxon Mobil Corp.,20171027,Text.txt
+86,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PACCAR Inc._20171024/Text.txt,PACCAR Inc.,20171024,Text.txt
+87,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/HP Inc._20171121/Text.txt,HP Inc.,20171121,Text.txt
+88,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/3M Company_20170725/Text.txt,3M Company,20170725,Text.txt
+89,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Stericycle Inc_20171108/Text.txt,Stericycle Inc,20171108,Text.txt
+90,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/WestRock_20170124/Text.txt,WestRock,20170124,Text.txt
+91,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PayPal_20170726/Text.txt,PayPal,20170726,Text.txt
+92,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Grainger (W.W.) Inc._20170719/Text.txt,Grainger (W.W.) Inc.,20170719,Text.txt
+93,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Amgen Inc._20170725/Text.txt,Amgen Inc.,20170725,Text.txt
+94,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Illinois Tool Works_20171023/Text.txt,Illinois Tool Works,20171023,Text.txt
+95,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Valero Energy_20170425/Text.txt,Valero Energy,20170425,Text.txt
+96,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Waste Management Inc._20170216/Text.txt,Waste Management Inc.,20170216,Text.txt
+97,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Wec Energy Group Inc_20170201/Text.txt,Wec Energy Group Inc,20170201,Text.txt
+98,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Merck & Co._20170728/Text.txt,Merck & Co.,20170728,Text.txt
+99,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lennar Corp._20170620/Text.txt,Lennar Corp.,20170620,Text.txt
+100,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SVB Financial_20170427/Text.txt,SVB Financial,20170427,Text.txt
+101,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ecolab Inc._20170502/Text.txt,Ecolab Inc.,20170502,Text.txt
+102,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/U.S. Bancorp_20170419/Text.txt,U.S. Bancorp,20170419,Text.txt
+103,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Home Depot_20170516/Text.txt,Home Depot,20170516,Text.txt
+104,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/F5 Networks_20170726/Text.txt,F5 Networks,20170726,Text.txt
+105,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Edison Int'l_20170501/Text.txt,Edison Int'l,20170501,Text.txt
+106,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Equinix_20170802/Text.txt,Equinix,20170802,Text.txt
+107,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lilly (Eli) & Co._20170131/Text.txt,Lilly (Eli) & Co.,20170131,Text.txt
+108,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Newell Brands_20170206/Text.txt,Newell Brands,20170206,Text.txt
+109,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dish Network_20170803/Text.txt,Dish Network,20170803,Text.txt
+110,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Microsoft Corp._20170126/Text.txt,Microsoft Corp.,20170126,Text.txt
+111,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Iron Mountain Incorporated_20170427/Text.txt,Iron Mountain Incorporated,20170427,Text.txt
+112,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Parker-Hannifin_20170202/Text.txt,Parker-Hannifin,20170202,Text.txt
+113,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Citrix Systems_20170802/Text.txt,Citrix Systems,20170802,Text.txt
+114,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/IPG Photonics Corp._20170502/Text.txt,IPG Photonics Corp.,20170502,Text.txt
+115,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PPL Corp._20170803/Text.txt,PPL Corp.,20170803,Text.txt
+116,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Align Technology_20170427/Text.txt,Align Technology,20170427,Text.txt
+117,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Walmart_20171116/Text.txt,Walmart,20171116,Text.txt
+118,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SunTrust Banks_20171020/Text.txt,SunTrust Banks,20171020,Text.txt
+119,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intuit Inc._20170523/Text.txt,Intuit Inc.,20170523,Text.txt
+120,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Yum! Brands Inc_20170803/Text.txt,Yum! Brands Inc,20170803,Text.txt
+121,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ulta Beauty_20171130/Text.txt,Ulta Beauty,20171130,Text.txt
+122,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Carmax Inc_20170922/Text.txt,Carmax Inc,20170922,Text.txt
+123,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Caterpillar Inc._20171024/Text.txt,Caterpillar Inc.,20171024,Text.txt
+124,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cboe Global Markets_20170804/Text.txt,Cboe Global Markets,20170804,Text.txt
+125,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kroger Co._20170908/Text.txt,Kroger Co.,20170908,Text.txt
+126,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Automatic Data Processing_20170201/Text.txt,Automatic Data Processing,20170201,Text.txt
+127,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Bank of New York Mellon Corp._20170720/Text.txt,The Bank of New York Mellon Corp.,20170720,Text.txt
+128,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CBRE Group_20171103/Text.txt,CBRE Group,20171103,Text.txt
+129,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Advanced Micro Devices Inc_20170725/Text.txt,Advanced Micro Devices Inc,20170725,Text.txt
+130,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Regeneron_20170504/Text.txt,Regeneron,20170504,Text.txt
+131,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Clorox Company_20170503/Text.txt,The Clorox Company,20170503,Text.txt
+132,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AmerisourceBergen Corp_20170803/Text.txt,AmerisourceBergen Corp,20170803,Text.txt
+133,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CIGNA Corp._20170804/Text.txt,CIGNA Corp.,20170804,Text.txt
+134,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Vulcan Materials_20170802/Text.txt,Vulcan Materials,20170802,Text.txt
+135,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Mosaic Company_20170502/Text.txt,The Mosaic Company,20170502,Text.txt
+136,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Walgreens Boots Alliance_20170629/Text.txt,Walgreens Boots Alliance,20170629,Text.txt
+137,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Stericycle Inc_20170803/Text.txt,Stericycle Inc,20170803,Text.txt
+138,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/JPMorgan Chase & Co._20170714/Text.txt,JPMorgan Chase & Co.,20170714,Text.txt
+139,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Archer-Daniels-Midland Co_20170207/Text.txt,Archer-Daniels-Midland Co,20170207,Text.txt
+140,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Viacom Inc._20171116/Text.txt,Viacom Inc.,20171116,Text.txt
+141,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AmerisourceBergen Corp_20170504/Text.txt,AmerisourceBergen Corp,20170504,Text.txt
+142,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Western Digital_20171026/Text.txt,Western Digital,20171026,Text.txt
+143,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Harris Corporation_20170801/Text.txt,Harris Corporation,20170801,Text.txt
+144,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nielsen Holdings_20170727/Text.txt,Nielsen Holdings,20170727,Text.txt
+145,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dominion Energy_20170504/Text.txt,Dominion Energy,20170504,Text.txt
+146,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lockheed Martin Corp._20170425/Text.txt,Lockheed Martin Corp.,20170425,Text.txt
+147,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Fidelity National Information Services_20170207/Text.txt,Fidelity National Information Services,20170207,Text.txt
+148,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Rockwell Automation Inc._20170726/Text.txt,Rockwell Automation Inc.,20170726,Text.txt
+149,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/JPMorgan Chase & Co._20171012/Text.txt,JPMorgan Chase & Co.,20171012,Text.txt
+150,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Fidelity National Information Services_20170802/Text.txt,Fidelity National Information Services,20170802,Text.txt
+151,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intercontinental Exchange_20170207/Text.txt,Intercontinental Exchange,20170207,Text.txt
+152,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Boeing Company_20170426/Text.txt,Boeing Company,20170426,Text.txt
+153,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Altria Group Inc_20170727/Text.txt,Altria Group Inc,20170727,Text.txt
+154,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Avery Dennison Corp_20171025/Text.txt,Avery Dennison Corp,20171025,Text.txt
+155,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PPG Industries_20170119/Text.txt,PPG Industries,20170119,Text.txt
+156,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Church & Dwight_20171102/Text.txt,Church & Dwight,20171102,Text.txt
+157,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Microsoft Corp._20170720/Text.txt,Microsoft Corp.,20170720,Text.txt
+158,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sealed Air_20170209/Text.txt,Sealed Air,20170209,Text.txt
+159,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intuit Inc._20170223/Text.txt,Intuit Inc.,20170223,Text.txt
+160,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tractor Supply Company_20170426/Text.txt,Tractor Supply Company,20170426,Text.txt
+161,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Salesforce.com_20170228/Text.txt,Salesforce.com,20170228,Text.txt
+162,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Altria Group Inc_20171026/Text.txt,Altria Group Inc,20171026,Text.txt
+163,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CMS Energy_20171026/Text.txt,CMS Energy,20171026,Text.txt
+164,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Franklin Resources_20170428/Text.txt,Franklin Resources,20170428,Text.txt
+165,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ulta Beauty_20170309/Text.txt,Ulta Beauty,20170309,Text.txt
+166,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Motors_20170428/Text.txt,General Motors,20170428,Text.txt
+167,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Align Technology_20170131/Text.txt,Align Technology,20170131,Text.txt
+168,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Bristol-Myers Squibb_20170727/Text.txt,Bristol-Myers Squibb,20170727,Text.txt
+169,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Thermo Fisher Scientific_20170426/Text.txt,Thermo Fisher Scientific,20170426,Text.txt
+170,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kinder Morgan_20170419/Text.txt,Kinder Morgan,20170419,Text.txt
+171,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Altria Group Inc_20170502/Text.txt,Altria Group Inc,20170502,Text.txt
+172,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lockheed Martin Corp._20170124/Text.txt,Lockheed Martin Corp.,20170124,Text.txt
+173,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Allegion_20170209/Text.txt,Allegion,20170209,Text.txt
+174,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Merck & Co._20170502/Text.txt,Merck & Co.,20170502,Text.txt
+175,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SCANA Corp_20170427/Text.txt,SCANA Corp,20170427,Text.txt
+176,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Coty, Inc_20170822/Text.txt","Coty, Inc",20170822,Text.txt
+177,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Dynamics_20170127/Text.txt,General Dynamics,20170127,Text.txt
+178,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AbbVie Inc._20170728/Text.txt,AbbVie Inc.,20170728,Text.txt
+179,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AbbVie Inc._20170728/.ipynb_checkpoints/Text-checkpoint.txt,AbbVie Inc.,20170728,.ipynb_checkpoints/Text-checkpoint.txt
+180,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Activision Blizzard_20170209/Text.txt,Activision Blizzard,20170209,Text.txt
+181,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Chevron Corp._20170428/Text.txt,Chevron Corp.,20170428,Text.txt
+182,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cadence Design Systems_20170724/Text.txt,Cadence Design Systems,20170724,Text.txt
+183,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lam Research_20170125/Text.txt,Lam Research,20170125,Text.txt
+184,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/NetApp_20171115/Text.txt,NetApp,20171115,Text.txt
+185,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Johnson Controls International_20171109/Text.txt,Johnson Controls International,20171109,Text.txt
+186,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mylan N.V._20170510/Text.txt,Mylan N.V.,20170510,Text.txt
+187,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Marsh & McLennan_20171026/Text.txt,Marsh & McLennan,20171026,Text.txt
+188,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kohl's Corp._20170511/Text.txt,Kohl's Corp.,20170511,Text.txt
+189,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Tower Corp A_20170427/Text.txt,American Tower Corp A,20170427,Text.txt
+190,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Growth Properties Inc._20170501/Text.txt,General Growth Properties Inc.,20170501,Text.txt
+191,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/ResMed_20170123/Text.txt,ResMed,20170123,Text.txt
+192,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PepsiCo Inc._20170426/Text.txt,PepsiCo Inc.,20170426,Text.txt
+193,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Akamai Technologies Inc_20170207/Text.txt,Akamai Technologies Inc,20170207,Text.txt
+194,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PepsiCo Inc._20170711/Text.txt,PepsiCo Inc.,20170711,Text.txt
+195,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Aetna Inc_20170131/Text.txt,Aetna Inc,20170131,Text.txt
+196,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Hershey Company_20171026/Text.txt,The Hershey Company,20171026,Text.txt
+197,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hilton Worldwide Holdings Inc_20170215/Text.txt,Hilton Worldwide Holdings Inc,20170215,Text.txt
+198,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verizon Communications_20170727/Text.txt,Verizon Communications,20170727,Text.txt
+199,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ball Corp_20170504/Text.txt,Ball Corp,20170504,Text.txt
+200,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/HP Inc._20170524/Text.txt,HP Inc.,20170524,Text.txt
+201,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Halliburton Co._20171023/Text.txt,Halliburton Co.,20171023,Text.txt
+202,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Hershey Company_20170426/Text.txt,The Hershey Company,20170426,Text.txt
+203,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Merck & Co._20171027/Text.txt,Merck & Co.,20171027,Text.txt
+204,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kellogg Co._20170504/Text.txt,Kellogg Co.,20170504,Text.txt
+205,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Express Co_20170719/Text.txt,American Express Co,20170719,Text.txt
+206,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Automatic Data Processing_20171102/Text.txt,Automatic Data Processing,20171102,Text.txt
+207,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alaska Air Group Inc_20171025/Text.txt,Alaska Air Group Inc,20171025,Text.txt
+208,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SVB Financial_20170126/Text.txt,SVB Financial,20170126,Text.txt
+209,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Amazon.com Inc._20170427/Text.txt,Amazon.com Inc.,20170427,Text.txt
+210,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Rockwell Automation Inc._20170426/Text.txt,Rockwell Automation Inc.,20170426,Text.txt
+211,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Booking Holdings Inc_20171106/Text.txt,Booking Holdings Inc,20171106,Text.txt
+212,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/A.O. Smith Corp_20170726/Text.txt,A.O. Smith Corp,20170726,Text.txt
+213,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Foot Locker Inc_20170519/Text.txt,Foot Locker Inc,20170519,Text.txt
+214,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Pinnacle West Capital_20170803/Text.txt,Pinnacle West Capital,20170803,Text.txt
+215,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Welltower Inc._20170505/Text.txt,Welltower Inc.,20170505,Text.txt
+216,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Oracle Corp._20170914/Text.txt,Oracle Corp.,20170914,Text.txt
+217,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/LKQ Corporation_20170427/Text.txt,LKQ Corporation,20170427,Text.txt
+218,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Illumina Inc_20170131/Text.txt,Illumina Inc,20170131,Text.txt
+219,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Martin Marietta Materials_20171102/Text.txt,Martin Marietta Materials,20171102,Text.txt
+220,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Xilinx_20170426/Text.txt,Xilinx,20170426,Text.txt
+221,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Estee Lauder Cos._20171101/Text.txt,Estee Lauder Cos.,20171101,Text.txt
+222,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mattel Inc._20170727/Text.txt,Mattel Inc.,20170727,Text.txt
+223,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Iron Mountain Incorporated_20170223/Text.txt,Iron Mountain Incorporated,20170223,Text.txt
+224,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Synopsys Inc._20170215/Text.txt,Synopsys Inc.,20170215,Text.txt
+225,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Grainger (W.W.) Inc._20170125/Text.txt,Grainger (W.W.) Inc.,20170125,Text.txt
+226,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Akamai Technologies Inc_20170502/Text.txt,Akamai Technologies Inc,20170502,Text.txt
+227,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Amgen Inc._20171025/Text.txt,Amgen Inc.,20171025,Text.txt
+228,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/XL Group_20171024/Text.txt,XL Group,20171024,Text.txt
+229,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Dynamics_20171025/Text.txt,General Dynamics,20171025,Text.txt
+230,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Growth Properties Inc._20170802/Text.txt,General Growth Properties Inc.,20170802,Text.txt
+231,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Texas Instruments_20170124/Text.txt,Texas Instruments,20170124,Text.txt
+232,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Aon plc_20170509/Text.txt,Aon plc,20170509,Text.txt
+233,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ball Corp_20171102/Text.txt,Ball Corp,20171102,Text.txt
+234,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ecolab Inc._20170221/Text.txt,Ecolab Inc.,20170221,Text.txt
+235,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Coty, Inc_20170209/Text.txt","Coty, Inc",20170209,Text.txt
+236,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/FleetCor Technologies Inc_20170803/Text.txt,FleetCor Technologies Inc,20170803,Text.txt
+237,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Garmin Ltd._20171101/Text.txt,Garmin Ltd.,20171101,Text.txt
+238,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Campbell Soup_20170519/Text.txt,Campbell Soup,20170519,Text.txt
+239,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ross Stores_20170518/Text.txt,Ross Stores,20170518,Text.txt
+240,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cognizant Technology Solutions_20171101/Text.txt,Cognizant Technology Solutions,20171101,Text.txt
+241,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PepsiCo Inc._20171004/Text.txt,PepsiCo Inc.,20171004,Text.txt
+242,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kroger Co._20170302/Text.txt,Kroger Co.,20170302,Text.txt
+243,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alexion Pharmaceuticals_20171026/Text.txt,Alexion Pharmaceuticals,20171026,Text.txt
+244,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Seagate Technology_20170124/Text.txt,Seagate Technology,20170124,Text.txt
+245,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Interpublic Group_20170210/Text.txt,Interpublic Group,20170210,Text.txt
+246,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Bristol-Myers Squibb_20170427/Text.txt,Bristol-Myers Squibb,20170427,Text.txt
+247,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Darden Restaurants_20170926/Text.txt,Darden Restaurants,20170926,Text.txt
+248,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/3M Company_20170425/Text.txt,3M Company,20170425,Text.txt
+249,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lam Research_20170418/Text.txt,Lam Research,20170418,Text.txt
+250,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/KLA-Tencor Corp._20170727/Text.txt,KLA-Tencor Corp.,20170727,Text.txt
+251,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/United Health Group Inc._20171017/Text.txt,United Health Group Inc.,20171017,Text.txt
+252,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dover Corp._20170420/Text.txt,Dover Corp.,20170420,Text.txt
+253,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Royal Caribbean Cruises Ltd_20170801/Text.txt,Royal Caribbean Cruises Ltd,20170801,Text.txt
+254,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Automatic Data Processing_20170727/Text.txt,Automatic Data Processing,20170727,Text.txt
+255,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Clorox Company_20170803/Text.txt,The Clorox Company,20170803,Text.txt
+256,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Red Hat Inc._20170327/Text.txt,Red Hat Inc.,20170327,Text.txt
+257,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Electronic Arts_20171031/Text.txt,Electronic Arts,20171031,Text.txt
+258,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Juniper Networks_20170425/Text.txt,Juniper Networks,20170425,Text.txt
+259,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sealed Air_20170509/Text.txt,Sealed Air,20170509,Text.txt
+260,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AmerisourceBergen Corp_20171102/Text.txt,AmerisourceBergen Corp,20171102,Text.txt
+261,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hologic_20170201/Text.txt,Hologic,20170201,Text.txt
+262,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/BorgWarner_20170727/Text.txt,BorgWarner,20170727,Text.txt
+263,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Merck & Co._20170202/Text.txt,Merck & Co.,20170202,Text.txt
+264,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CMS Energy_20170501/Text.txt,CMS Energy,20170501,Text.txt
+265,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Chevron Corp._20170127/Text.txt,Chevron Corp.,20170127,Text.txt
+266,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Express Co_20171018/Text.txt,American Express Co,20171018,Text.txt
+267,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ross Stores_20171116/Text.txt,Ross Stores,20171116,Text.txt
+268,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Western Union Co_20171102/Text.txt,Western Union Co,20171102,Text.txt
+269,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Pinnacle West Capital_20171103/Text.txt,Pinnacle West Capital,20171103,Text.txt
+270,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Motors_20171024/Text.txt,General Motors,20171024,Text.txt
+271,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/LyondellBasell_20170203/Text.txt,LyondellBasell,20170203,Text.txt
+272,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/HCA Holdings_20170502/Text.txt,HCA Holdings,20170502,Text.txt
+273,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gartner Inc_20170504/Text.txt,Gartner Inc,20170504,Text.txt
+274,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tiffany & Co._20170524/Text.txt,Tiffany & Co.,20170524,Text.txt
+275,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/F5 Networks_20170125/Text.txt,F5 Networks,20170125,Text.txt
+276,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/HP Inc._20170222/Text.txt,HP Inc.,20170222,Text.txt
+277,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/eBay Inc._20170125/Text.txt,eBay Inc.,20170125,Text.txt
+278,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/McDonald's Corp._20171024/Text.txt,McDonald's Corp.,20171024,Text.txt
+279,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Oracle Corp._20171214/Text.txt,Oracle Corp.,20171214,Text.txt
+280,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ross Stores_20170228/Text.txt,Ross Stores,20170228,Text.txt
+281,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CenturyLink Inc_20170802/Text.txt,CenturyLink Inc,20170802,Text.txt
+282,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Waste Management Inc._20171026/Text.txt,Waste Management Inc.,20171026,Text.txt
+283,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CMS Energy_20170202/Text.txt,CMS Energy,20170202,Text.txt
+284,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dish Network_20171109/Text.txt,Dish Network,20171109,Text.txt
+285,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Autodesk Inc._20170302/Text.txt,Autodesk Inc.,20170302,Text.txt
+286,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sherwin-Williams_20170720/Text.txt,Sherwin-Williams,20170720,Text.txt
+287,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Allegion_20170427/Text.txt,Allegion,20170427,Text.txt
+288,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Illumina Inc_20170801/Text.txt,Illumina Inc,20170801,Text.txt
+289,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Quest Diagnostics_20170420/Text.txt,Quest Diagnostics,20170420,Text.txt
+290,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Incyte_20170801/Text.txt,Incyte,20170801,Text.txt
+291,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CenturyLink Inc_20171108/Text.txt,CenturyLink Inc,20171108,Text.txt
+292,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Activision Blizzard_20170504/Text.txt,Activision Blizzard,20170504,Text.txt
+293,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CBS Corp._20171102/Text.txt,CBS Corp.,20171102,Text.txt
+294,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Twitter, Inc._20170209/Text.txt","Twitter, Inc.",20170209,Text.txt
+295,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tyson Foods_20170206/Text.txt,Tyson Foods,20170206,Text.txt
+296,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Skyworks Solutions_20171106/Text.txt,Skyworks Solutions,20171106,Text.txt
+297,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Michael Kors Holdings_20170207/Text.txt,Michael Kors Holdings,20170207,Text.txt
+298,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Coty, Inc_20171109/Text.txt","Coty, Inc",20171109,Text.txt
+299,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Waste Management Inc._20170726/Text.txt,Waste Management Inc.,20170726,Text.txt
+300,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/MGM Resorts International_20170727/Text.txt,MGM Resorts International,20170727,Text.txt
+301,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CIGNA Corp._20170202/Text.txt,CIGNA Corp.,20170202,Text.txt
+302,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/United Health Group Inc._20170418/Text.txt,United Health Group Inc.,20170418,Text.txt
+303,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Starbucks Corp._20170126/Text.txt,Starbucks Corp.,20170126,Text.txt
+304,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Agilent Technologies Inc_20170214/Text.txt,Agilent Technologies Inc,20170214,Text.txt
+305,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Celgene Corp._20170126/Text.txt,Celgene Corp.,20170126,Text.txt
+306,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Hershey Company_20170203/Text.txt,The Hershey Company,20170203,Text.txt
+307,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Estee Lauder Cos._20170503/Text.txt,Estee Lauder Cos.,20170503,Text.txt
+308,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Perrigo_20171109/Text.txt,Perrigo,20171109,Text.txt
+309,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Polo Ralph Lauren Corp._20171102/Text.txt,Polo Ralph Lauren Corp.,20171102,Text.txt
+310,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Estee Lauder Cos._20170818/Text.txt,Estee Lauder Cos.,20170818,Text.txt
+311,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Varian Medical Systems_20170125/Text.txt,Varian Medical Systems,20170125,Text.txt
+312,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Xerox_20170801/Text.txt,Xerox,20170801,Text.txt
+313,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Celgene Corp._20171026/Text.txt,Celgene Corp.,20171026,Text.txt
+314,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Republic Services Inc_20170727/Text.txt,Republic Services Inc,20170727,Text.txt
+315,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Salesforce.com_20170822/Text.txt,Salesforce.com,20170822,Text.txt
+316,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CVS Health_20170209/Text.txt,CVS Health,20170209,Text.txt
+317,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Goldman Sachs Group_20170718/Text.txt,Goldman Sachs Group,20170718,Text.txt
+318,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Coca-Cola Company (The)_20170209/Text.txt,Coca-Cola Company (The),20170209,Text.txt
+319,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Motors_20170207/Text.txt,General Motors,20170207,Text.txt
+320,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Newmont Mining Corporation_20170725/Text.txt,Newmont Mining Corporation,20170725,Text.txt
+321,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Seagate Technology_20170725/Text.txt,Seagate Technology,20170725,Text.txt
+322,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kohl's Corp._20171109/Text.txt,Kohl's Corp.,20171109,Text.txt
+323,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Raytheon Co._20170427/Text.txt,Raytheon Co.,20170427,Text.txt
+324,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AES Corp_20171102/Text.txt,AES Corp,20171102,Text.txt
+325,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Anthem Inc._20170726/Text.txt,Anthem Inc.,20170726,Text.txt
+326,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/FLIR Systems_20171025/Text.txt,FLIR Systems,20171025,Text.txt
+327,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Incyte_20170214/Text.txt,Incyte,20170214,Text.txt
+328,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CME Group Inc._20171026/Text.txt,CME Group Inc.,20171026,Text.txt
+329,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/eBay Inc._20170419/Text.txt,eBay Inc.,20170419,Text.txt
+330,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/HP Inc._20170823/Text.txt,HP Inc.,20170823,Text.txt
+331,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Target Corp._20170816/Text.txt,Target Corp.,20170816,Text.txt
+332,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kohl's Corp._20170223/Text.txt,Kohl's Corp.,20170223,Text.txt
+333,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Rockwell Automation Inc._20170125/Text.txt,Rockwell Automation Inc.,20170125,Text.txt
+334,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Avery Dennison Corp_20170201/Text.txt,Avery Dennison Corp,20170201,Text.txt
+335,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/United Parcel Service_20170727/Text.txt,United Parcel Service,20170727,Text.txt
+336,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nvidia Corporation_20170509/Text.txt,Nvidia Corporation,20170509,Text.txt
+337,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gap Inc._20170223/Text.txt,Gap Inc.,20170223,Text.txt
+338,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Comcast Corp._20170126/Text.txt,Comcast Corp.,20170126,Text.txt
+339,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Celgene Corp._20170727/Text.txt,Celgene Corp.,20170727,Text.txt
+340,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Equinix_20171101/Text.txt,Equinix,20171101,Text.txt
+341,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Mills_20170628/Text.txt,General Mills,20170628,Text.txt
+342,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Seagate Technology_20171023/Text.txt,Seagate Technology,20171023,Text.txt
+343,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/United Technologies_20170725/Text.txt,United Technologies,20170725,Text.txt
+344,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lowe's Cos._20170524/Text.txt,Lowe's Cos.,20170524,Text.txt
+345,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Walt Disney Company_20170509/Text.txt,The Walt Disney Company,20170509,Text.txt
+346,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mondelez International_20170802/Text.txt,Mondelez International,20170802,Text.txt
+347,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dominion Energy_20171030/Text.txt,Dominion Energy,20171030,Text.txt
+348,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/MSCI Inc_20170504/Text.txt,MSCI Inc,20170504,Text.txt
+349,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Dynamics_20170426/Text.txt,General Dynamics,20170426,Text.txt
+350,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PPL Corp._20170201/Text.txt,PPL Corp.,20170201,Text.txt
+351,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/SunTrust Banks_20170120/Text.txt,SunTrust Banks,20170120,Text.txt
+352,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tapestry, Inc._20170131/Text.txt","Tapestry, Inc.",20170131,Text.txt
+353,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Regeneron_20171108/Text.txt,Regeneron,20171108,Text.txt
+354,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hormel Foods Corp._20170223/Text.txt,Hormel Foods Corp.,20170223,Text.txt
+355,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/International Paper_20170202/Text.txt,International Paper,20170202,Text.txt
+356,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intel Corp._20170727/Text.txt,Intel Corp.,20170727,Text.txt
+357,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Dollar General_20171207/Text.txt,Dollar General,20171207,Text.txt
+358,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ventas Inc_20171027/Text.txt,Ventas Inc,20171027,Text.txt
+359,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Yum! Brands Inc_20170209/Text.txt,Yum! Brands Inc,20170209,Text.txt
+360,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Mills_20171220/Text.txt,General Mills,20171220,Text.txt
+361,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Duke Energy_20171103/Text.txt,Duke Energy,20171103,Text.txt
+362,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Tower Corp A_20171031/Text.txt,American Tower Corp A,20171031,Text.txt
+363,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Varian Medical Systems_20171025/Text.txt,Varian Medical Systems,20171025,Text.txt
+364,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Pentair plc_20170725/Text.txt,Pentair plc,20170725,Text.txt
+365,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Walt Disney Company_20170207/Text.txt,The Walt Disney Company,20170207,Text.txt
+366,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Micron Technology_20170926/Text.txt,Micron Technology,20170926,Text.txt
+367,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Martin Marietta Materials_20170214/Text.txt,Martin Marietta Materials,20170214,Text.txt
+368,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Iron Mountain Incorporated_20170728/Text.txt,Iron Mountain Incorporated,20170728,Text.txt
+369,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sempra Energy_20170509/Text.txt,Sempra Energy,20170509,Text.txt
+370,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alliance Data Systems_20170126/Text.txt,Alliance Data Systems,20170126,Text.txt
+371,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Synopsys Inc._20171129/Text.txt,Synopsys Inc.,20171129,Text.txt
+372,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/eBay Inc._20170720/Text.txt,eBay Inc.,20170720,Text.txt
+373,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Skyworks Solutions_20170720/Text.txt,Skyworks Solutions,20170720,Text.txt
+374,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mastercard Inc._20170131/Text.txt,Mastercard Inc.,20170131,Text.txt
+375,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/LKQ Corporation_20170727/Text.txt,LKQ Corporation,20170727,Text.txt
+376,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Motorola Solutions Inc._20170803/Text.txt,Motorola Solutions Inc.,20170803,Text.txt
+377,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Henry Schein_20170221/Text.txt,Henry Schein,20170221,Text.txt
+378,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Archer-Daniels-Midland Co_20170801/Text.txt,Archer-Daniels-Midland Co,20170801,Text.txt
+379,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Walgreens Boots Alliance_20170405/Text.txt,Walgreens Boots Alliance,20170405,Text.txt
+380,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Quanta Services Inc._20170504/Text.txt,Quanta Services Inc.,20170504,Text.txt
+381,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Aon plc_20171027/Text.txt,Aon plc,20171027,Text.txt
+382,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alliance Data Systems_20170420/Text.txt,Alliance Data Systems,20170420,Text.txt
+383,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Raytheon Co._20171026/Text.txt,Raytheon Co.,20171026,Text.txt
+384,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Quanta Services Inc._20170221/Text.txt,Quanta Services Inc.,20170221,Text.txt
+385,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nike_20170321/Text.txt,Nike,20170321,Text.txt
+386,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Advance Auto Parts_20170524/Text.txt,Advance Auto Parts,20170524,Text.txt
+387,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Symantec Corp._20170510/Text.txt,Symantec Corp.,20170510,Text.txt
+388,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Abbott Laboratories_20171018/Text.txt,Abbott Laboratories,20171018,Text.txt
+389,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Roper Technologies_20170209/Text.txt,Roper Technologies,20170209,Text.txt
+390,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Broadridge Financial Solutions_20170510/Text.txt,Broadridge Financial Solutions,20170510,Text.txt
+391,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AT&T Inc._20170425/Text.txt,AT&T Inc.,20170425,Text.txt
+392,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kellogg Co._20170803/Text.txt,Kellogg Co.,20170803,Text.txt
+393,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Automatic Data Processing_20170503/Text.txt,Automatic Data Processing,20170503,Text.txt
+394,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Foot Locker Inc_20170224/Text.txt,Foot Locker Inc,20170224,Text.txt
+395,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Anthem Inc._20170426/Text.txt,Anthem Inc.,20170426,Text.txt
+396,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Genuine Parts_20170221/Text.txt,Genuine Parts,20170221,Text.txt
+397,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ecolab Inc._20171031/Text.txt,Ecolab Inc.,20171031,Text.txt
+398,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Target Corp._20171115/Text.txt,Target Corp.,20171115,Text.txt
+399,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Parker-Hannifin_20171102/Text.txt,Parker-Hannifin,20171102,Text.txt
+400,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/EQT Corporation_20170727/Text.txt,EQT Corporation,20170727,Text.txt
+401,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Tower Corp A_20170227/Text.txt,American Tower Corp A,20170227,Text.txt
+402,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verizon Communications_20171019/Text.txt,Verizon Communications,20171019,Text.txt
+403,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Facebook, Inc._20171101/Text.txt","Facebook, Inc.",20171101,Text.txt
+404,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Emerson Electric Company_20170502/Text.txt,Emerson Electric Company,20170502,Text.txt
+405,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/News Corp. Class A_20170509/Text.txt,News Corp. Class A,20170509,Text.txt
+406,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Clorox Company_20170203/Text.txt,The Clorox Company,20170203,Text.txt
+407,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Royal Caribbean Cruises Ltd_20171107/Text.txt,Royal Caribbean Cruises Ltd,20171107,Text.txt
+408,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mattel Inc._20171026/Text.txt,Mattel Inc.,20171026,Text.txt
+409,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PACCAR Inc._20170725/Text.txt,PACCAR Inc.,20170725,Text.txt
+410,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kimberly-Clark_20170124/Text.txt,Kimberly-Clark,20170124,Text.txt
+411,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Biogen Inc._20170126/Text.txt,Biogen Inc.,20170126,Text.txt
+412,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Aetna Inc_20170502/Text.txt,Aetna Inc,20170502,Text.txt
+413,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kellogg Co._20171031/Text.txt,Kellogg Co.,20171031,Text.txt
+414,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verizon Communications_20170420/Text.txt,Verizon Communications,20170420,Text.txt
+415,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Comerica Inc._20170418/Text.txt,Comerica Inc.,20170418,Text.txt
+416,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Advanced Micro Devices Inc_20170501/Text.txt,Advanced Micro Devices Inc,20170501,Text.txt
+417,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Advanced Micro Devices Inc_20170501/.ipynb_checkpoints/Text-checkpoint.txt,Advanced Micro Devices Inc,20170501,.ipynb_checkpoints/Text-checkpoint.txt
+418,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Pinnacle West Capital_20170502/Text.txt,Pinnacle West Capital,20170502,Text.txt
+419,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AMETEK Inc._20170207/Text.txt,AMETEK Inc.,20170207,Text.txt
+420,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/United Technologies_20171024/Text.txt,United Technologies,20171024,Text.txt
+421,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Avery Dennison Corp_20170426/Text.txt,Avery Dennison Corp,20170426,Text.txt
+422,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Cooper Companies_20170831/Text.txt,The Cooper Companies,20170831,Text.txt
+423,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Snap-On Inc._20170720/Text.txt,Snap-On Inc.,20170720,Text.txt
+424,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Humana Inc._20170503/Text.txt,Humana Inc.,20170503,Text.txt
+425,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Archer-Daniels-Midland Co_20170502/Text.txt,Archer-Daniels-Midland Co,20170502,Text.txt
+426,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Apache Corporation_20171102/Text.txt,Apache Corporation,20171102,Text.txt
+427,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Goodyear Tire & Rubber_20170428/Text.txt,Goodyear Tire & Rubber,20170428,Text.txt
+428,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nasdaq, Inc._20170131/Text.txt","Nasdaq, Inc.",20170131,Text.txt
+429,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/KLA-Tencor Corp._20170427/Text.txt,KLA-Tencor Corp.,20170427,Text.txt
+430,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AES Corp_20170508/Text.txt,AES Corp,20170508,Text.txt
+431,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Texas Instruments_20171024/Text.txt,Texas Instruments,20171024,Text.txt
+432,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PayPal_20170126/Text.txt,PayPal,20170126,Text.txt
+433,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Gartner Inc_20170808/Text.txt,Gartner Inc,20170808,Text.txt
+434,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/EQT Corporation_20170427/Text.txt,EQT Corporation,20170427,Text.txt
+435,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Conagra Brands_20171221/Text.txt,Conagra Brands,20171221,Text.txt
+436,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Polo Ralph Lauren Corp._20170202/Text.txt,Polo Ralph Lauren Corp.,20170202,Text.txt
+437,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Goldman Sachs Group_20170118/Text.txt,Goldman Sachs Group,20170118,Text.txt
+438,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intel Corp._20170427/Text.txt,Intel Corp.,20170427,Text.txt
+439,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Carmax Inc_20171221/Text.txt,Carmax Inc,20171221,Text.txt
+440,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Franklin Resources_20170127/Text.txt,Franklin Resources,20170127,Text.txt
+441,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Intel Corp._20171026/Text.txt,Intel Corp.,20171026,Text.txt
+442,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Regions Financial Corp._20171024/Text.txt,Regions Financial Corp.,20171024,Text.txt
+443,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kraft Heinz Co_20170215/Text.txt,Kraft Heinz Co,20170215,Text.txt
+444,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Avery Dennison Corp_20170725/Text.txt,Avery Dennison Corp,20170725,Text.txt
+445,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alliance Data Systems_20171019/Text.txt,Alliance Data Systems,20171019,Text.txt
+446,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Fortive Corp_20170207/Text.txt,Fortive Corp,20170207,Text.txt
+447,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Garmin Ltd._20170222/Text.txt,Garmin Ltd.,20170222,Text.txt
+448,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Celgene Corp._20170427/Text.txt,Celgene Corp.,20170427,Text.txt
+449,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Martin Marietta Materials_20170502/Text.txt,Martin Marietta Materials,20170502,Text.txt
+450,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Baxter International Inc._20170426/Text.txt,Baxter International Inc.,20170426,Text.txt
+451,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Wec Energy Group Inc_20171026/Text.txt,Wec Energy Group Inc,20171026,Text.txt
+452,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Walgreens Boots Alliance_20171025/Text.txt,Walgreens Boots Alliance,20171025,Text.txt
+453,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tractor Supply Company_20170726/Text.txt,Tractor Supply Company,20170726,Text.txt
+454,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Interpublic Group_20170421/Text.txt,Interpublic Group,20170421,Text.txt
+455,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Parker-Hannifin_20170427/Text.txt,Parker-Hannifin,20170427,Text.txt
+456,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Comerica Inc._20170117/Text.txt,Comerica Inc.,20170117,Text.txt
+457,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cisco Systems_20171115/Text.txt,Cisco Systems,20171115,Text.txt
+458,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Align Technology_20170727/Text.txt,Align Technology,20170727,Text.txt
+459,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AbbVie Inc._20170427/Text.txt,AbbVie Inc.,20170427,Text.txt
+460,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Emerson Electric Company_20170207/Text.txt,Emerson Electric Company,20170207,Text.txt
+461,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kansas City Southern_20170120/Text.txt,Kansas City Southern,20170120,Text.txt
+462,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ingersoll-Rand PLC_20170426/Text.txt,Ingersoll-Rand PLC,20170426,Text.txt
+463,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/NiSource Inc._20170503/Text.txt,NiSource Inc.,20170503,Text.txt
+464,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Masco Corp._20171024/Text.txt,Masco Corp.,20171024,Text.txt
+465,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Oracle Corp._20170621/Text.txt,Oracle Corp.,20170621,Text.txt
+466,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Microsoft Corp._20170427/Text.txt,Microsoft Corp.,20170427,Text.txt
+467,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hewlett Packard Enterprise_20170905/Text.txt,Hewlett Packard Enterprise,20170905,Text.txt
+468,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Corning Inc._20170124/Text.txt,Corning Inc.,20170124,Text.txt
+469,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Estee Lauder Cos._20170202/Text.txt,Estee Lauder Cos.,20170202,Text.txt
+470,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nordstrom_20171109/Text.txt,Nordstrom,20171109,Text.txt
+471,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Schlumberger Ltd._20170721/Text.txt,Schlumberger Ltd.,20170721,Text.txt
+472,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Illumina Inc_20171024/Text.txt,Illumina Inc,20171024,Text.txt
+473,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/American Express Co_20170419/Text.txt,American Express Co,20170419,Text.txt
+474,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/TransDigm Group_20170207/Text.txt,TransDigm Group,20170207,Text.txt
+475,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Becton Dickinson_20171102/Text.txt,Becton Dickinson,20171102,Text.txt
+476,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Baxter International Inc._20170726/Text.txt,Baxter International Inc.,20170726,Text.txt
+477,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kraft Heinz Co_20170503/Text.txt,Kraft Heinz Co,20170503,Text.txt
+478,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Becton Dickinson_20170803/Text.txt,Becton Dickinson,20170803,Text.txt
+479,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/DTE Energy Co._20170726/Text.txt,DTE Energy Co.,20170726,Text.txt
+480,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Edwards Lifesciences_20170201/Text.txt,Edwards Lifesciences,20170201,Text.txt
+481,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Mastercard Inc._20170727/Text.txt,Mastercard Inc.,20170727,Text.txt
+482,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Public Serv. Enterprise Inc._20170428/Text.txt,Public Serv. Enterprise Inc.,20170428,Text.txt
+483,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ingersoll-Rand PLC_20170201/Text.txt,Ingersoll-Rand PLC,20170201,Text.txt
+484,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Quest Diagnostics_20170725/Text.txt,Quest Diagnostics,20170725,Text.txt
+485,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Citigroup Inc._20171012/Text.txt,Citigroup Inc.,20171012,Text.txt
+486,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Schlumberger Ltd._20170421/Text.txt,Schlumberger Ltd.,20170421,Text.txt
+487,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Anthem Inc._20170201/Text.txt,Anthem Inc.,20170201,Text.txt
+488,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cognizant Technology Solutions_20170803/Text.txt,Cognizant Technology Solutions,20170803,Text.txt
+489,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/WestRock_20171102/Text.txt,WestRock,20171102,Text.txt
+490,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alaska Air Group Inc_20170208/Text.txt,Alaska Air Group Inc,20170208,Text.txt
+491,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Skyworks Solutions_20170427/Text.txt,Skyworks Solutions,20170427,Text.txt
+492,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lockheed Martin Corp._20170718/Text.txt,Lockheed Martin Corp.,20170718,Text.txt
+493,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Adobe Systems Inc_20170316/Text.txt,Adobe Systems Inc,20170316,Text.txt
+494,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Masco Corp._20170727/Text.txt,Masco Corp.,20170727,Text.txt
+495,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hasbro Inc._20170424/Text.txt,Hasbro Inc.,20170424,Text.txt
+496,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Mosaic Company_20170801/Text.txt,The Mosaic Company,20170801,Text.txt
+497,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Johnson Controls International_20170727/Text.txt,Johnson Controls International,20170727,Text.txt
+498,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/DaVita Inc._20170801/Text.txt,DaVita Inc.,20170801,Text.txt
+499,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Marsh & McLennan_20170727/Text.txt,Marsh & McLennan,20170727,Text.txt
+500,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Norfolk Southern Corp._20170426/Text.txt,Norfolk Southern Corp.,20170426,Text.txt
+501,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kraft Heinz Co_20171101/Text.txt,Kraft Heinz Co,20171101,Text.txt
+502,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/ResMed_20170427/Text.txt,ResMed,20170427,Text.txt
+503,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Garmin Ltd._20170503/Text.txt,Garmin Ltd.,20170503,Text.txt
+504,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Campbell Soup_20171121/Text.txt,Campbell Soup,20171121,Text.txt
+505,"/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Twitter, Inc._20170426/Text.txt","Twitter, Inc.",20170426,Text.txt
+506,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Micron Technology_20170629/Text.txt,Micron Technology,20170629,Text.txt
+507,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sealed Air_20171108/Text.txt,Sealed Air,20171108,Text.txt
+508,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hanesbrands Inc_20171101/Text.txt,Hanesbrands Inc,20171101,Text.txt
+509,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Valero Energy_20170131/Text.txt,Valero Energy,20170131,Text.txt
+510,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Xcel Energy Inc_20170202/Text.txt,Xcel Energy Inc,20170202,Text.txt
+511,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Foot Locker Inc_20171117/Text.txt,Foot Locker Inc,20171117,Text.txt
+512,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/General Motors_20170725/Text.txt,General Motors,20170725,Text.txt
+513,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/NetApp_20170215/Text.txt,NetApp,20170215,Text.txt
+514,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Archer-Daniels-Midland Co_20171031/Text.txt,Archer-Daniels-Midland Co,20171031,Text.txt
+515,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CBS Corp._20170807/Text.txt,CBS Corp.,20170807,Text.txt
+516,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Alexion Pharmaceuticals_20170427/Text.txt,Alexion Pharmaceuticals,20170427,Text.txt
+517,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Freeport-McMoRan Inc._20170425/Text.txt,Freeport-McMoRan Inc.,20170425,Text.txt
+518,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/D. R. Horton_20170124/Text.txt,D. R. Horton,20170124,Text.txt
+519,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nucor Corp._20171019/Text.txt,Nucor Corp.,20171019,Text.txt
+520,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Amazon.com Inc._20170202/Text.txt,Amazon.com Inc.,20170202,Text.txt
+521,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Verisign Inc._20171026/Text.txt,Verisign Inc.,20171026,Text.txt
+522,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hasbro Inc._20170206/Text.txt,Hasbro Inc.,20170206,Text.txt
+523,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ross Stores_20170817/Text.txt,Ross Stores,20170817,Text.txt
+524,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/F5 Networks_20170426/Text.txt,F5 Networks,20170426,Text.txt
+525,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Campbell Soup_20170217/Text.txt,Campbell Soup,20170217,Text.txt
+526,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nucor Corp._20170420/Text.txt,Nucor Corp.,20170420,Text.txt
+527,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Stryker Corp._20171026/Text.txt,Stryker Corp.,20171026,Text.txt
+528,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/AmerisourceBergen Corp_20170131/Text.txt,AmerisourceBergen Corp,20170131,Text.txt
+529,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sysco Corp._20170508/Text.txt,Sysco Corp.,20170508,Text.txt
+530,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/TE Connectivity Ltd._20170726/Text.txt,TE Connectivity Ltd.,20170726,Text.txt
+531,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PPL Corp._20170504/Text.txt,PPL Corp.,20170504,Text.txt
+532,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/BorgWarner_20170209/Text.txt,BorgWarner,20170209,Text.txt
+533,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hilton Worldwide Holdings Inc_20170502/Text.txt,Hilton Worldwide Holdings Inc,20170502,Text.txt
+534,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Church & Dwight_20170803/Text.txt,Church & Dwight,20170803,Text.txt
+535,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ameren Corp_20170216/Text.txt,Ameren Corp,20170216,Text.txt
+536,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Republic Services Inc_20170216/Text.txt,Republic Services Inc,20170216,Text.txt
+537,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kimberly-Clark_20170725/Text.txt,Kimberly-Clark,20170725,Text.txt
+538,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ecolab Inc._20170801/Text.txt,Ecolab Inc.,20170801,Text.txt
+539,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hess Corporation_20170426/Text.txt,Hess Corporation,20170426,Text.txt
+540,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kimberly-Clark_20170424/Text.txt,Kimberly-Clark,20170424,Text.txt
+541,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/PerkinElmer_20171102/Text.txt,PerkinElmer,20171102,Text.txt
+542,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hasbro Inc._20171023/Text.txt,Hasbro Inc.,20171023,Text.txt
+543,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Quanta Services Inc._20170803/Text.txt,Quanta Services Inc.,20170803,Text.txt
+544,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Wec Energy Group Inc_20170502/Text.txt,Wec Energy Group Inc,20170502,Text.txt
+545,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nektar Therapeutics_20170301/Text.txt,Nektar Therapeutics,20170301,Text.txt
+546,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/NRG Energy_20170228/Text.txt,NRG Energy,20170228,Text.txt
+547,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Apache Corporation_20170223/Text.txt,Apache Corporation,20170223,Text.txt
+548,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Johnson Controls International_20170427/Text.txt,Johnson Controls International,20170427,Text.txt
+549,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Snap-On Inc._20170202/Text.txt,Snap-On Inc.,20170202,Text.txt
+550,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Weyerhaeuser_20170428/Text.txt,Weyerhaeuser,20170428,Text.txt
+551,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Ball Corp_20170803/Text.txt,Ball Corp,20170803,Text.txt
+552,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Kroger Co._20171130/Text.txt,Kroger Co.,20171130,Text.txt
+553,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Weyerhaeuser_20170203/Text.txt,Weyerhaeuser,20170203,Text.txt
+554,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cimarex Energy_20170510/Text.txt,Cimarex Energy,20170510,Text.txt
+555,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Invesco Ltd._20171026/Text.txt,Invesco Ltd.,20171026,Text.txt
+556,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Red Hat Inc._20171219/Text.txt,Red Hat Inc.,20171219,Text.txt
+557,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Sysco Corp._20171106/Text.txt,Sysco Corp.,20171106,Text.txt
+558,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Hess Corporation_20170125/Text.txt,Hess Corporation,20170125,Text.txt
+559,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lowe's Cos._20171121/Text.txt,Lowe's Cos.,20171121,Text.txt
+560,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Cummins Inc._20170801/Text.txt,Cummins Inc.,20170801,Text.txt
+561,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lockheed Martin Corp._20171024/Text.txt,Lockheed Martin Corp.,20171024,Text.txt
+562,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Motorola Solutions Inc._20171102/Text.txt,Motorola Solutions Inc.,20171102,Text.txt
+563,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Molson Coors Brewing Company_20170802/Text.txt,Molson Coors Brewing Company,20170802,Text.txt
+564,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Caterpillar Inc._20170126/Text.txt,Caterpillar Inc.,20170126,Text.txt
+565,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/WestRock_20170426/Text.txt,WestRock,20170426,Text.txt
+566,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Advanced Micro Devices Inc_20171024/Text.txt,Advanced Micro Devices Inc,20171024,Text.txt
+567,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Caterpillar Inc._20170425/Text.txt,Caterpillar Inc.,20170425,Text.txt
+568,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Regions Financial Corp._20170721/Text.txt,Regions Financial Corp.,20170721,Text.txt
+569,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nielsen Holdings_20171025/Text.txt,Nielsen Holdings,20171025,Text.txt
+570,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/CIGNA Corp._20170505/Text.txt,CIGNA Corp.,20170505,Text.txt
+571,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Tractor Supply Company_20170201/Text.txt,Tractor Supply Company,20170201,Text.txt
+572,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lowe's Cos._20170823/Text.txt,Lowe's Cos.,20170823,Text.txt
+573,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Comcast Corp._20170427/Text.txt,Comcast Corp.,20170427,Text.txt
+574,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Nordstrom_20170223/Text.txt,Nordstrom,20170223,Text.txt
+575,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/The Clorox Company_20171101/Text.txt,The Clorox Company,20171101,Text.txt
+576,/home/xuranzeng/thesis/EC/ReleasedDataset_mp3/Lilly (Eli) & Co._20170425/Text.txt,Lilly (Eli) & Co.,20170425,Text.txt
