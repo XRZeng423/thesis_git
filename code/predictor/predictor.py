@@ -36,9 +36,9 @@ class Predictor:
                     # batch_b["start"][i],
                     # batch_b["end"][i],
                     labels[i],
-                    probs[i][0],
-                    probs[i][1],
-                    probs[i][2]
+                    # probs[i][0],
+                    # probs[i][1],
+                    # probs[i][2]
                 ])
         
         print(f"Start writing file: {self.write_path}")
@@ -46,7 +46,8 @@ class Predictor:
             writer = csv.writer(csvfile)
 
             # writer.writerow(["path", "start", "end", "label", "0", "1", "2"])
-            writer.writerow(["path", "label", "0", "1", "2"])
+            # writer.writerow(["path", "label", "0", "1", "2"])
+            writer.writerow(["path", "label"])
             writer.writerows(output)
         
         csvfile.close()

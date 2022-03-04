@@ -50,7 +50,10 @@ class GemapsWriter:
                 print(f"Finished: {i}/{len(self.bpc_data)}")
             dic = {
                 "path": piece[1],
-                "gemaps": self.gemaps(piece[1]).tolist()
+                "gemaps": self.gemaps(piece[1]).tolist(),
+                "arousal": piece[3],
+                "valence":piece[4],
+                "emotion":piece[2]
             }
             json_data.append(dic)
         
