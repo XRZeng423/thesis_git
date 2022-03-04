@@ -42,6 +42,8 @@ class SusasDataset(Dataset):
         path = piece["path"]
         arousal = piece["arousal"]
         valence = piece["valence"]
+
+        #label = piece["emotion"]
         
         # (16,)
         # teo_feature: np.ndarray = self.teo_extractor(piece[1])
@@ -49,6 +51,7 @@ class SusasDataset(Dataset):
         # (25,)
         gemaps_feature: np.ndarray = np.array(piece["gemaps"])
         label = self.args.label_map[arousal + valence]
+        #label = self.args.label_map[emotion] # for RAV corpora
         
         return {
             "path": path,
